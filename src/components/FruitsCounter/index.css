@@ -1,0 +1,31 @@
+.mangocount {
+  color: #ffd569;
+}
+.bananaconut {
+  color: #ffd569;
+}
+.bg-container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-color: #ffd569;
+  border-width: 25px;
+  border-style: solid;
+  margin: 30px;
+}
+.banana {
+  height: 30vh;
+}
+.mango {
+  height: 30vh;
+}
+.btn {
+  color: white;
+  background-color: #007bff;
+  padding: 10px;
+  border-width: 0px;
+  border-radius: 10px;
+  margin: 30px;
+}
